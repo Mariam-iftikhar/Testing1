@@ -1,0 +1,43 @@
+---
+title: "Gsoc"
+author: "Mariam Iftikhar"
+date: "2025-03-25"
+output: pdf_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(galah)
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+library(ggspatial)
+library(GSODR)
+library(dplyr)
+library(ozmaps)
+library(geosphere)
+library(stringr)
+library(readr)
+library(knitr)
+
+```
+
+
+\newpage
+
+# Project information
+
+* Project title: Ecotourism Data Package: Tourism Records and Endangered Wildlife Reports
+
+* Project short title (30 characters): Ecotourism Data Package
+
+* URL of project idea page: 
+
+# Contact Information
+
+* Contributor name: Mariam Iftikhar
+
+* Contributor postal address: 
+
+* Telephone(s): 
+
+* Email(s): mariamiftikhar127@gmail.com
